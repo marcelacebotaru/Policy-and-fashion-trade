@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Anne
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 #---------------------
 # 4.1 Data Preparation
 #------------------------------------
