@@ -1,0 +1,1 @@
+I have used the contents of this repository as part of my dissertation research on "Do better policies mean better fashion trade? A cross-national analysis of regulatory quality and textile trade efficiency"
